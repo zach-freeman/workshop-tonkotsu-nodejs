@@ -1,4 +1,4 @@
-varasdf assert = require("assert");
+var assert = require("assert");
 var utils = require("../lib/utils");
 
 var mochaAsync = fn => {
