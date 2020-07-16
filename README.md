@@ -40,4 +40,3 @@ npm start
 
 Follow the coach instructions and good luck!
 
-Changing to test the CI Build
